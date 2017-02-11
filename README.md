@@ -11,19 +11,26 @@
 
 - [Tutorials](#tutorials)
 - [Developer](#developer)
+- [Media](#media)
 - [Others](#others)
 
 ## Developer
 
+- [Ack Code Search](https://prenagha.github.io/launchbar/ack.html) - Search using Ack.
 - [Dash](https://kapeli.com/dash) - Included in App. Allows you to query Dash for Developer Documentation.
 
 ## Tutorials
 
 - [Creating LaunchBar 6 Actions](https://computers.tutsplus.com/tutorials/creating-launchbar-6-actions--cms-22733)
 
+## Media
+
+- [Switch Audio](https://prenagha.github.io/launchbar/audio.html) - Action to switch Input and Output Audio devices. Requires [switchaudio-osx](https://github.com/deweller/switchaudio-osx).
+
 ## Others
 
 - [Caffeinate](https://prenagha.github.io/launchbar/caffeinate.html) - Keep your system awake for specified duration.
+- [Expand URL](https://prenagha.github.io/launchbar/expand.html) -  Resolves short URLs like t.co and bit.ly to real URLs.
 - [Timer](https://prenagha.github.io/launchbar/timer.html) - Creates timer in Launchbar.
 
 ## License
